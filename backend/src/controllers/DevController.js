@@ -44,5 +44,3 @@ module.exports = {
     return res.json(dev)
   }
 }
-
-//53 Minutos de Aula
